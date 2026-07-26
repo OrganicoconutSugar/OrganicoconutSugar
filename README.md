@@ -50,16 +50,43 @@ Status     : Masih terus belajar, jangan judge repo lama ya 😅
 
 ## 🚀 Project Pilihan
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/OrganicoconutSugar/CoconutSugar](https://github.com/OrganicoconutSugar/Photobooth-Uhuyyy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=OrganicoconutSugar&repo=CoconutSugar&theme=radical" />
-</a>
-<a href="https://github.com/OrganicoconutSugar/belajargit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=OrganicoconutSugar&repo=belajargit&theme=radical" />
+<a href="https://github.com/OrganicoconutSugar/Photobooth-Uhuyyy">
+<img src="https://opengraph.githubassets.com/1/OrganicoconutSugar/Photobooth-Uhuyyy" width="100%"/>
 </a>
 
-</div>
+**📸 Photobooth — Sage Maximalist**
+Aplikasi web photobooth gratis: jepret 4 foto berurutan, pasang filter & bingkai template, lalu unduh sebagai satu strip foto digital. Ada deteksi senyum otomatis pakai AI FaceMesh juga 🤳
+
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+🔗 [Live Demo](https://photobooth-uhuyyy.vercel.app) · [Repo](https://github.com/OrganicoconutSugar/Photobooth-Uhuyyy)
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/OrganicoconutSugar/FairuzPortfolio">
+<img src="https://opengraph.githubassets.com/1/OrganicoconutSugar/FairuzPortfolio" width="100%"/>
+</a>
+
+**🌐 Fairuz Portfolio**
+Website portfolio pribadi, dibangun pakai React + Vite. Tempat nampilin profil, skill, dan project-project yang udah dikerjain 🚀
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+🔗 [Live Demo](https://fairuzportfolio.vercel.app) · [Repo](https://github.com/OrganicoconutSugar/FairuzPortfolio)
+
+</td>
+</tr>
+</table>
 
 <br>
 
