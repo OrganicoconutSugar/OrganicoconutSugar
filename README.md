@@ -52,7 +52,7 @@ Status     : Masih terus belajar, jangan judge repo lama ya 😅
 
 <div align="center">
 
-<a href="https://github.com/OrganicoconutSugar/CoconutSugar">
+<a href="https://github.com/OrganicoconutSugar/CoconutSugar](https://github.com/OrganicoconutSugar/Photobooth-Uhuyyy">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=OrganicoconutSugar&repo=CoconutSugar&theme=radical" />
 </a>
 <a href="https://github.com/OrganicoconutSugar/belajargit">
