@@ -83,8 +83,6 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/OrganicoconutSugar/OrganicoconutSugar/output/github-snake.svg" width="100%"/>
 </picture>
 
-<sub>⚠️ Muncul otomatis setelah workflow di bawah dijalankan sekali (lihat panduan setup)</sub>
-
 </div>
 
 <br>
